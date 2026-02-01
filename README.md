@@ -44,7 +44,7 @@ This project aims to transform raw data into actionable insights by performing S
 **Data Cleaning & Analysis (SQL)**
 Used SQL to clean data, join tables, and calculate KPIs related to revenue, user behavior, and content performance.
 
--- **Data Modeling (Power BI)**
+**Data Modeling (Power BI)**
 Created a star schema and built relationships between fact and dimension tables.
 
 **Dashboard Development (Power BI)**
