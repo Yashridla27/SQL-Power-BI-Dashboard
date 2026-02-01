@@ -38,19 +38,19 @@ This project aims to transform raw data into actionable insights by performing S
 
 # Process
 
-## Data Collection
+**Data Collection**
 -Collected Netflix-style datasets including subscription, consumption, and catalogue data.
 
-## Data Cleaning & Analysis (SQL)
+**Data Cleaning & Analysis (SQL)**
 Used SQL to clean data, join tables, and calculate KPIs related to revenue, user behavior, and content performance.
 
 -- **Data Modeling (Power BI)**
 Created a star schema and built relationships between fact and dimension tables.
 
-## Dashboard Development (Power BI)
-Designed interactive dashboards using KPI cards, charts, and slicers.
+**Dashboard Development (Power BI)**
+Designed interactive dashboards using KPI cards, charts, DAX, Pivot Tables and slicers.
 
-## Insight Generation
+**Insight Generation**
 Analyzed trends in watch time, user engagement, and content performance to derive business insights.
 
 ## Dashboard
